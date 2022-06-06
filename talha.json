@@ -1,0 +1,19 @@
+{
+    "name":"Talha Saeed",
+    "age":"23",
+    "gender":"Male",
+    "title":"I Create Stylish Websites using React Environment. Also i have put some efforts in creating React Native Mobile Apps",
+    "services":[
+        {"title":"Web Development","description":"I Create Stylish Websties using ReactJS, NodeJS, MongoDB."},
+        {"title":"MobileApp Development", "description":"Using React Native environemnt, I Create Mobile Apps "}
+    ],
+    "work":[
+        {"title":"iNotebook", "description":"Full Stack React Application using NodeJS, MongoDB as backend. This Notebook/Diary was created to make ease for users to save their data online where it can be safe and secured"},
+        {"title":"Melophile", "description":"I Have created this music player in React Native environemt. This stylish music player app is fully functional whose backend is created with firebase and Async Storage  "}
+    ],
+    "education":[
+        {"title":"Comsats Universtiy Islamabad", "year":"2017-2023"},
+        {"title":"Punjab College Blue Area", "year":"2015-2017"}
+    ]
+
+}
